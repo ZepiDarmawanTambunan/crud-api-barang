@@ -1,0 +1,6 @@
+go mod init crud-api-barang
+go run main.go
+
+v 0.0.2
+- validator belum selesai
+- relasi kategori
